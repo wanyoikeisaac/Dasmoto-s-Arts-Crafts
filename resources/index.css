@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    font-family: Helvetica;
+    background-image: url('Image\ 1.png');
+
+}
+.special-heading1{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+
+}
+.bold1{
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+    
+
+}
+.special-heading2{
+    background-color: red;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.bold2{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.special-heading3{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.bold3{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
